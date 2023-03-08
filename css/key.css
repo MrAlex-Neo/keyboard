@@ -1,0 +1,48 @@
+.keyboardEn {
+    display: inline-block;
+    border: 5px solid purple;
+    margin: 30px;
+    padding: 20px;
+}
+
+/* .keyboardRu {
+    display: inline-block;
+    border: 1px solid purple;
+    margin: 30px;
+    padding: 20px;
+}
+.keyboardRu button{
+    width: 40px;
+    margin: 3px; 
+} */
+
+h2 {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.usertext {
+    width: 100%;
+}
+.keyboard button{
+    width: 40px;
+    margin: 3px; 
+}
+
+.lang  {
+    width: 10px;
+}
+.spaces button:first-child {
+    width: 300px;
+}
+
+.spaces button:last-child {
+    width: 100px;
+}
+.spaces {
+    text-align: center;
+}
+
+.up{
+    text-transform: uppercase;
+}
